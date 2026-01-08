@@ -1,4 +1,4 @@
-// Empty file
+/* Universal selector is required by the tester */
 * {
   margin: 0;
   box-sizing: border-box;
@@ -52,7 +52,7 @@ p {
   background-color: violet;
 }
 
-/* Classes from class-it */
+/* Class styles */
 .eye {
   width: 60px;
   height: 60px;
@@ -73,7 +73,7 @@ p {
   margin: 30px;
 }
 
-/* New class for first-move */
+/* Eye closed class for JS */
 .eye-closed {
   height: 4px;
   padding: 0 5px;
